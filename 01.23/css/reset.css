@@ -1,0 +1,5 @@
+html, body, html::after, html::before, html::after, html::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
